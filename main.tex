@@ -97,7 +97,7 @@
 % ================== DOKUMENT ==================
 \begin{document}
 	
-	\renewcommand{\docTitle}{Božské tóny v Krušnohoří — Dokumentace produktu}
+	\renewcommand{\docTitle}{Božské tóny v Krušnohoří}
 	\renewcommand{\docAuthor}{ViasWebs}
 	\renewcommand{\docYear}{2025}
 	
@@ -159,8 +159,7 @@
 	šablonovací systém \textbf{Elementor}, jenž poskytuje vizuální rozhraní pro editaci
 	a rychlé sestavování sekcí bez zásahů do kódu. Web je plně \textbf{responzivní}
 	(PC, tablet, mobil) a \textbf{lokalizovaný} pro češtinu a němčinu
-	(přeshraniční charakter projektu).
-	
+	(přeshraniční charakter projektu) pomocí externí domény \url{http://www.goettlicheklaenge.de/}.
 	\subsection*{Hosting}
 	Provoz webu je zajištěn přes hostingovou společnost \textbf{Blueboard}.
 	Správu hostingu i souvisejících služeb zajišťuje přímo zákazník.
@@ -313,7 +312,104 @@
 	\subsection{Aktualizace WordPressu a pluginů}
 	Pravidelné aktualizace všech dostupných prvků jsou důležité pro bezpečnost a funkčnost webu. Aktualizace doporučujeme provádět pravidelně \textbf{alespoň 1x za měsíc}.
 	
-	Klikněte na Aktualizovat nyní, pokud je dostupná nová verze 
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=5cm]{WPupdate1}
+		\caption{Aktualizace ve WordPressu - lišta}
+		\label{fig:role}
+	\end{figure}
+	
+	Klikněte na Aktualizovat nyní, pokud je dostupná nová verze. Následně klikněte na Aktualizovat nyní, pokud je dostupná nová verze.
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=18cm]{WPupdatesite}
+		\caption{Aktualizace ve WordPressu - notifikace aktualizací}
+		\label{fig:role}
+	\end{figure}
+	
+	\subsection{Aktualizace pluginů}
+	Aktualizace pluginů probíhá automaticky, nicméně v případě, že by automatická aktualizace selhala, může být nutné aktualizaci spustit ručně. Pro ruční spuštění aktualizace pluginů jděte níže na stránce „Aktualizace“ viz. Aktualizace WordPressu. Vyberte pluginy, které chcete aktualizovat a klikněte na „Aktualizovat pluginy“.
+	
+		
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=18cm]{WPupdateplugin}
+		\caption{Aktualizace ve WordPressu - pluginy}
+		\label{fig:role}
+	\end{figure}
+	
+	\textbf{Doporučení:} Před větší aktualizací (např. WordPressu) udělejte zálohu pomocí pluginu \textbf{UpdraftPlus}.
+	
+	\subsection{Zálohování}
+	Pro vytvoření zálohy stačí v levé sekci zvolit položku „UpdraftPlus“. Jedná se o doplněk, který vytvoří zálohu webu, kterou je později na vyžádání schopen obnovit. Záloha je vytvořena a odeslána na FTP server \url{viaswebs.cz}, hostovaný společností BlueBoard.
+	
+	\newpage
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=5cm]{WPbackupmenu}
+		\caption{Aktualizace ve WordPressu - zálohování}
+		\label{fig:role}
+	\end{figure}
+	
+	Zde pouze kliknete na „Zálohovat nyní“ a tím spustíte proces zálohování.
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=17cm]{WPmakebackup}
+		\caption{Aktualizace ve WordPressu - vytvoření zálohy}
+		\label{fig:role}
+	\end{figure}
+	
+	Pro obnovení webu do stavu před aktualizací, nebo jakoukoli nechtěnou změnou stačí vybrat v seznamu zálohu, kterou chcete obnovit a kliknout na „Obnovit“ ve sloupci „Akce“.
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=17cm]{WPrestore}
+		\caption{Aktualizace ve WordPressu - obnova zálohy}
+		\label{fig:role}
+	\end{figure}
+	
+	\newpage
+	\subsection{Použité pluginy}
+	Pokud budete chtít nainstalovat nový plugin, nebo deaktivovat / nastavit stávající, v záložce menu vyberte položku “Pluginy”.
+			
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=5cm]{WPplugins}
+		\caption{Pluginy ve Wordpressu - výčet}
+		\label{fig:role}
+	\end{figure}
+	
+
+	Web využívá následující pluginy:
+	\begin{enumerate}
+		\item \textbf{Autoptimize} – zrychlení webu (optimalizace kódu)
+		\item \textbf{Better Search Replace} – hromadná úprava textů/dat v databázi (používat jen administrátor)
+		\item \textbf{Category Posts in Custom Menu} – zobrazení kategorií v menu
+		\item \textbf{Clear Autoptimize Cache Automatically} – automatické mazání cache Autoptimize
+		\item \textbf{Connect Polylang for Elementor} – propojení jazyků (Polylang) s Elementorem
+		\item \textbf{Cookie Notice \& Compliance for GDPR / CCPA} – lišta se souhlasem s cookies
+		\item \textbf{Download Manager} – správa a stahování souborů
+		\item \textbf{Elementor + Elementor Pro} – vizuální editor stránek
+		\item \textbf{HTTP Headers} – bezpečnostní hlavičky
+		\item \textbf{Klasický editor} – původní editor místo Gutenberg bloků
+		\item \textbf{My Calendar} – správa událostí a kalendáře
+		\item \textbf{Pages with category and tag} – možnost přiřadit stránkám štítky a kategorie
+		\item \textbf{Polylang} – vícejazyčnost webu
+		\item \textbf{Smush} – optimalizace obrázků
+		\item \textbf{Under Construction} – režim „stránka v přípravě“
+		\item \textbf{Unlimited Elements for Elementor} – další widgety do Elementoru
+		\item \textbf{UpdraftPlus} – zálohování a obnova webu
+		\item \textbf{Wordfence Security} – ochrana proti útokům
+		\item \textbf{WP Fastest Cache} – zrychlení webu (cachování)
+		\item \textbf{Yoast SEO} – nastavení pro vyhledávače (SEO)
+	\end{enumerate}
+	
+	Mezi pluginy (kormě šablonovacího nástroje Elementor Pro) se nenachází žádný placený/licencovaný plugin, který by vyžadoval další správu.
+	
+	
+	
 	
 	
 	

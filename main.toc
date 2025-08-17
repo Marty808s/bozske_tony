@@ -12,3 +12,6 @@
 \contentsline {subsection}{\numberline {3.1}Správa účtů a oprávnění}{4}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Systémové role}{5}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Aktualizace WordPressu a pluginů}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Aktualizace pluginů}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Zálohování}{9}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Použité pluginy}{11}{subsection.3.6}%
