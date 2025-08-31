@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.17)  17 AUG 2025 22:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.17)  31 AUG 2025 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,7 +576,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
 (Font)              `T1/Roboto-LF/regular/n' on input line 104.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
 (Font)              scaled to size 14.4pt on input line 104.
-<logo.png, id=67, 542.025pt x 455.45157pt>
+<logo.png, id=75, 542.025pt x 455.45157pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 104.
@@ -676,7 +676,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 [3]
-<./img/role.png, id=113, 128.73094pt x 337.26pt>
+<./img/role.png, id=123, 128.73094pt x 337.26pt>
 File: ./img/role.png Graphic file (type png)
 <use ./img/role.png>
 Package pdftex.def Info: ./img/role.png  used on input line 180.
@@ -690,7 +690,7 @@ Package pdftex.def Info: ./img/role.png  used on input line 180.
 [6]
 
 [7]
-<./img/WPupdate1.png, id=170, 202.50656pt x 207.02344pt>
+<./img/WPupdate1.png, id=180, 202.50656pt x 207.02344pt>
 File: ./img/WPupdate1.png Graphic file (type png)
 <use ./img/WPupdate1.png>
 Package pdftex.def Info: ./img/WPupdate1.png  used on input line 317.
@@ -698,7 +698,7 @@ Package pdftex.def Info: ./img/WPupdate1.png  used on input line 317.
 
 
 [8 <./img/WPupdate1.png>]
-<./img/WPupdatesite.png, id=184, 455.45157pt x 84.315pt>
+<./img/WPupdatesite.png, id=194, 455.45157pt x 84.315pt>
 File: ./img/WPupdatesite.png Graphic file (type png)
 <use ./img/WPupdatesite.png>
 Package pdftex.def Info: ./img/WPupdatesite.png  used on input line 326.
@@ -708,7 +708,7 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 326--327
  [][] 
  []
 
-<./img/WPupdateplugin.png, id=185, 455.45157pt x 158.09062pt>
+<./img/WPupdateplugin.png, id=195, 455.45157pt x 158.09062pt>
 File: ./img/WPupdateplugin.png Graphic file (type png)
 <use ./img/WPupdateplugin.png>
 Package pdftex.def Info: ./img/WPupdateplugin.png  used on input line 337.
@@ -721,12 +721,12 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 337--338
 
 
 [9 <./img/WPupdatesite.png> <./img/WPupdateplugin.png>]
-<./img/WPbackupmenu.png, id=195, 122.70844pt x 189.70876pt>
+<./img/WPbackupmenu.png, id=205, 122.70844pt x 189.70876pt>
 File: ./img/WPbackupmenu.png Graphic file (type png)
 <use ./img/WPbackupmenu.png>
 Package pdftex.def Info: ./img/WPbackupmenu.png  used on input line 350.
 (pdftex.def)             Requested size: 142.26378pt x 219.9494pt.
-<./img/WPmakebackup.png, id=196, 455.45157pt x 109.91063pt>
+<./img/WPmakebackup.png, id=206, 455.45157pt x 109.91063pt>
 File: ./img/WPmakebackup.png Graphic file (type png)
 <use ./img/WPmakebackup.png>
 Package pdftex.def Info: ./img/WPmakebackup.png  used on input line 359.
@@ -736,7 +736,7 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 359--360
  [][] 
  []
 
-<./img/WPrestore.png, id=197, 455.45157pt x 53.44969pt>
+<./img/WPrestore.png, id=207, 455.45157pt x 53.44969pt>
 File: ./img/WPrestore.png Graphic file (type png)
 <use ./img/WPrestore.png>
 Package pdftex.def Info: ./img/WPrestore.png  used on input line 368.
@@ -749,7 +749,7 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 368--369
 
 
 [10 <./img/WPbackupmenu.png> <./img/WPmakebackup.png> <./img/WPrestore.png>]
-<./img/WPplugins.png, id=208, 127.22531pt x 157.33781pt>
+<./img/WPplugins.png, id=218, 127.22531pt x 157.33781pt>
 File: ./img/WPplugins.png Graphic file (type png)
 <use ./img/WPplugins.png>
 Package pdftex.def Info: ./img/WPplugins.png  used on input line 379.
@@ -757,8 +757,22 @@ Package pdftex.def Info: ./img/WPplugins.png  used on input line 379.
 
 
 [11 <./img/WPplugins.png>]
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family Roboto-LF in TS1 encoding.
+            Default family used instead on input line 429.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
-[12] (main.aux)
+
+[12]
+
+[13] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -767,25 +781,32 @@ L3 programming layer <2025-07-20>
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 296A08C0341DBE9481639C488044CA93;2306.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: E2069B495AA31277F896E6FF4BCD34B2;2566
+(rerunfilecheck)             After:  ECEBF9B68221BA313CFBA5AA47797DDD;2551.
  ) 
 Here is how much of TeX's memory you used:
- 14930 strings out of 468133
- 248172 string characters out of 5430719
+ 14958 strings out of 468133
+ 248648 string characters out of 5430719
  700762 words of memory out of 5000000
- 43090 multiletter control sequences out of 15000+600000
- 703095 words of font info for 169 fonts, out of 8000000 for 9000
+ 43101 multiletter control sequences out of 15000+600000
+ 705222 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,80p,1135b,592s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Marty\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
-1200.pk><C:/Users/Marty/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto
-/Roboto-Bold.pfb><C:/Users/Marty/AppData/Local/Programs/MiKTeX/fonts/type1/goog
-le/roboto/Roboto-Italic.pfb><C:/Users/Marty/AppData/Local/Programs/MiKTeX/fonts
-/type1/google/roboto/Roboto-Regular.pfb>
-Output written on main.pdf (14 pages, 380137 bytes).
+ <C:\Users\Marty\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
+1200.pk> <C:\Users\Marty\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ectt1200.pk><C:/Users/Marty/AppData/Local/Programs/MiKTeX/fonts/type1/google/
+roboto/Roboto-Bold.pfb><C:/Users/Marty/AppData/Local/Programs/MiKTeX/fonts/type
+1/google/roboto/Roboto-Italic.pfb><C:/Users/Marty/AppData/Local/Programs/MiKTeX
+/fonts/type1/google/roboto/Roboto-Regular.pfb>
+Output written on main.pdf (15 pages, 385739 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 49838 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
+ 50878 words of extra memory for PDF output out of 51595 (max. 10000000)
 
