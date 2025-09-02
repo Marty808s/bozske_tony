@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.17)  31 AUG 2025 22:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.17)  1 SEP 2025 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -477,6 +477,15 @@ LaTeX Warning: Label `fig:role' multiply defined.
 
 LaTeX Warning: Label `fig:role' multiply defined.
 
+
+LaTeX Warning: Label `fig:role' multiply defined.
+
+
+LaTeX Warning: Label `fig:role' multiply defined.
+
+
+LaTeX Warning: Label `fig:role' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -603,7 +612,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
 (Font)              `T1/Roboto-LF/regular/n' on input line 104.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
 (Font)              scaled to size 14.4pt on input line 104.
-<logo.png, id=87, 542.025pt x 455.45157pt>
+<logo.png, id=91, 542.025pt x 455.45157pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 104.
@@ -703,7 +712,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 [3]
-<./img/role.png, id=138, 128.73094pt x 337.26pt>
+<./img/role.png, id=143, 128.73094pt x 337.26pt>
 File: ./img/role.png Graphic file (type png)
 <use ./img/role.png>
 Package pdftex.def Info: ./img/role.png  used on input line 180.
@@ -717,7 +726,7 @@ Package pdftex.def Info: ./img/role.png  used on input line 180.
 [6]
 
 [7]
-<./img/WPupdate1.png, id=195, 202.50656pt x 207.02344pt>
+<./img/WPupdate1.png, id=200, 202.50656pt x 207.02344pt>
 File: ./img/WPupdate1.png Graphic file (type png)
 <use ./img/WPupdate1.png>
 Package pdftex.def Info: ./img/WPupdate1.png  used on input line 317.
@@ -725,7 +734,7 @@ Package pdftex.def Info: ./img/WPupdate1.png  used on input line 317.
 
 
 [8 <./img/WPupdate1.png>]
-<./img/WPupdatesite.png, id=209, 455.45157pt x 84.315pt>
+<./img/WPupdatesite.png, id=214, 455.45157pt x 84.315pt>
 File: ./img/WPupdatesite.png Graphic file (type png)
 <use ./img/WPupdatesite.png>
 Package pdftex.def Info: ./img/WPupdatesite.png  used on input line 326.
@@ -735,7 +744,7 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 326--327
  [][] 
  []
 
-<./img/WPupdateplugin.png, id=210, 455.45157pt x 158.09062pt>
+<./img/WPupdateplugin.png, id=215, 455.45157pt x 158.09062pt>
 File: ./img/WPupdateplugin.png Graphic file (type png)
 <use ./img/WPupdateplugin.png>
 Package pdftex.def Info: ./img/WPupdateplugin.png  used on input line 337.
@@ -748,12 +757,12 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 337--338
 
 
 [9 <./img/WPupdatesite.png> <./img/WPupdateplugin.png>]
-<./img/WPbackupmenu.png, id=220, 122.70844pt x 189.70876pt>
+<./img/WPbackupmenu.png, id=225, 122.70844pt x 189.70876pt>
 File: ./img/WPbackupmenu.png Graphic file (type png)
 <use ./img/WPbackupmenu.png>
 Package pdftex.def Info: ./img/WPbackupmenu.png  used on input line 350.
 (pdftex.def)             Requested size: 142.26378pt x 219.9494pt.
-<./img/WPmakebackup.png, id=221, 455.45157pt x 109.91063pt>
+<./img/WPmakebackup.png, id=226, 455.45157pt x 109.91063pt>
 File: ./img/WPmakebackup.png Graphic file (type png)
 <use ./img/WPmakebackup.png>
 Package pdftex.def Info: ./img/WPmakebackup.png  used on input line 359.
@@ -763,7 +772,7 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 359--360
  [][] 
  []
 
-<./img/WPrestore.png, id=222, 455.45157pt x 53.44969pt>
+<./img/WPrestore.png, id=227, 455.45157pt x 53.44969pt>
 File: ./img/WPrestore.png Graphic file (type png)
 <use ./img/WPrestore.png>
 Package pdftex.def Info: ./img/WPrestore.png  used on input line 368.
@@ -776,7 +785,7 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 368--369
 
 
 [10 <./img/WPbackupmenu.png> <./img/WPmakebackup.png> <./img/WPrestore.png>]
-<./img/WPplugins.png, id=233, 127.22531pt x 157.33781pt>
+<./img/WPplugins.png, id=238, 127.22531pt x 157.33781pt>
 File: ./img/WPplugins.png Graphic file (type png)
 <use ./img/WPplugins.png>
 Package pdftex.def Info: ./img/WPplugins.png  used on input line 379.
@@ -795,7 +804,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<./img/WPdeletecache.png, id=257, 972.63374pt x 66.2475pt>
+<./img/WPdeletecache.png, id=262, 972.63374pt x 66.2475pt>
 File: ./img/WPdeletecache.png Graphic file (type png)
 <use ./img/WPdeletecache.png>
 Package pdftex.def Info: ./img/WPdeletecache.png  used on input line 433.
@@ -805,7 +814,7 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 433--434
  [][] 
  []
 
-<./img/WPdeletecache1.png, id=258, 197.98969pt x 70.01157pt>
+<./img/WPdeletecache1.png, id=263, 197.98969pt x 70.01157pt>
 File: ./img/WPdeletecache1.png Graphic file (type png)
 <use ./img/WPdeletecache1.png>
 Package pdftex.def Info: ./img/WPdeletecache1.png  used on input line 441.
@@ -819,17 +828,17 @@ LaTeX Info: Symbol \textrightarrow not provided by
 LaTeX Info: Symbol \textrightarrow not provided by
             font family Roboto-LF in TS1 encoding.
             Default family used instead on input line 457.
-<./img/WPrubriky.png, id=275, 383.7537pt x 271.7352pt>
+<./img/WPrubriky.png, id=280, 383.7537pt x 271.7352pt>
 File: ./img/WPrubriky.png Graphic file (type png)
 <use ./img/WPrubriky.png>
 Package pdftex.def Info: ./img/WPrubriky.png  used on input line 464.
 (pdftex.def)             Requested size: 426.79134pt x 302.2101pt.
-<./img/WPrubriky2.png, id=276, 214.55156pt x 246.9225pt>
+<./img/WPrubriky2.png, id=281, 214.55156pt x 246.9225pt>
 File: ./img/WPrubriky2.png Graphic file (type png)
 <use ./img/WPrubriky2.png>
 Package pdftex.def Info: ./img/WPrubriky2.png  used on input line 479.
 (pdftex.def)             Requested size: 227.62204pt x 261.96642pt.
-<./img/WPuzivatele.png, id=277, 1433.355pt x 383.93437pt>
+<./img/WPuzivatele.png, id=282, 1433.355pt x 383.93437pt>
 File: ./img/WPuzivatele.png Graphic file (type png)
 <use ./img/WPuzivatele.png>
 Package pdftex.def Info: ./img/WPuzivatele.png  used on input line 496.
@@ -837,7 +846,7 @@ Package pdftex.def Info: ./img/WPuzivatele.png  used on input line 496.
 
 
 [13 <./img/WPrubriky.png>]
-<./img/WPcreateuser.png, id=290, 526.21594pt x 590.95781pt>
+<./img/WPcreateuser.png, id=295, 526.21594pt x 590.95781pt>
 File: ./img/WPcreateuser.png Graphic file (type png)
 <use ./img/WPcreateuser.png>
 Package pdftex.def Info: ./img/WPcreateuser.png  used on input line 506.
@@ -847,7 +856,7 @@ Package pdftex.def Info: ./img/WPcreateuser.png  used on input line 506.
 [14 <./img/WPrubriky2.png> <./img/WPuzivatele.png>]
 
 [15 <./img/WPcreateuser.png>]
-<./img/WPnewpost.png, id=305, 1316.66907pt x 635.37375pt>
+<./img/WPnewpost.png, id=310, 1316.66907pt x 635.37375pt>
 File: ./img/WPnewpost.png Graphic file (type png)
 <use ./img/WPnewpost.png>
 Package pdftex.def Info: ./img/WPnewpost.png  used on input line 558.
@@ -855,19 +864,40 @@ Package pdftex.def Info: ./img/WPnewpost.png  used on input line 558.
 
 
 [16 <./img/WPnewpost.png>]
-<./img/WPprispevkylang.png, id=320, 1428.83812pt x 517.935pt>
+<./img/WPprispevkylang.png, id=325, 1428.83812pt x 517.935pt>
 File: ./img/WPprispevkylang.png Graphic file (type png)
 <use ./img/WPprispevkylang.png>
 Package pdftex.def Info: ./img/WPprispevkylang.png  used on input line 570.
 (pdftex.def)             Requested size: 426.79134pt x 154.70203pt.
-<./img/WPeditprispevek.png, id=321, 1303.87125pt x 502.12593pt>
+<./img/WPeditprispevek.png, id=326, 1303.87125pt x 502.12593pt>
 File: ./img/WPeditprispevek.png Graphic file (type png)
 <use ./img/WPeditprispevek.png>
 Package pdftex.def Info: ./img/WPeditprispevek.png  used on input line 579.
 (pdftex.def)             Requested size: 426.79134pt x 164.36125pt.
 
 
-[17 <./img/WPprispevkylang.png> <./img/WPeditprispevek.png>] (main.aux)
+[17 <./img/WPprispevkylang.png> <./img/WPeditprispevek.png>]
+<./img/WPupload0.png, id=336, 813.0375pt x 348.55219pt>
+File: ./img/WPupload0.png Graphic file (type png)
+<use ./img/WPupload0.png>
+Package pdftex.def Info: ./img/WPupload0.png  used on input line 594.
+(pdftex.def)             Requested size: 426.79134pt x 182.96603pt.
+
+
+[18 <./img/WPupload0.png>]
+<./img/WPupload1.png, id=343, 679.78969pt x 779.16093pt>
+File: ./img/WPupload1.png Graphic file (type png)
+<use ./img/WPupload1.png>
+Package pdftex.def Info: ./img/WPupload1.png  used on input line 606.
+(pdftex.def)             Requested size: 341.43306pt x 391.33908pt.
+<./img/WPupload2.png, id=344, 1324.19719pt x 261.22594pt>
+File: ./img/WPupload2.png Graphic file (type png)
+<use ./img/WPupload2.png>
+Package pdftex.def Info: ./img/WPupload2.png  used on input line 615.
+(pdftex.def)             Requested size: 369.88582pt x 72.96736pt.
+
+
+[19 <./img/WPupload1.png> <./img/WPupload2.png>] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -877,14 +907,14 @@ L3 programming layer <2025-07-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8D7DE8A760D11B713C72141C050AB463;3059.
+(rerunfilecheck)             Checksum: 8CCB29E5CC632EA2CDF38C83083A91AA;3152.
  ) 
 Here is how much of TeX's memory you used:
- 15091 strings out of 468133
- 251548 string characters out of 5430719
- 700753 words of memory out of 5000000
- 43192 multiletter control sequences out of 15000+600000
- 706783 words of font info for 186 fonts, out of 8000000 for 9000
+ 15128 strings out of 468133
+ 252351 string characters out of 5430719
+ 700749 words of memory out of 5000000
+ 43220 multiletter control sequences out of 15000+600000
+ 707121 words of font info for 188 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,80p,1135b,592s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Marty\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
@@ -894,9 +924,9 @@ roboto/Roboto-Bold.pfb><C:/Users/Marty/AppData/Local/Programs/MiKTeX/fonts/type
 1/google/roboto/Roboto-Italic.pfb><C:/Users/Marty/AppData/Local/Programs/MiKTeX
 /fonts/type1/google/roboto/Roboto-Regular.pfb><C:/Users/Marty/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (19 pages, 798561 bytes).
+Output written on main.pdf (21 pages, 941242 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
- 50947 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 50970 words of extra memory for PDF output out of 51595 (max. 10000000)
 
