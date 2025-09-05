@@ -54,7 +54,7 @@
 \renewcommand{\cftsecleader}{\color{main}\cftdotfill{\cftdotsep}}
 \renewcommand{\cftsubsecleader}{\color{main}\cftdotfill{\cftdotsep}}
 
-\titleformat{\subsubsection}[runin] % "runin" = inline nadpis (v textu), lze změnit na "hang"
+\titleformat{\subsubsection}[hang] % "runin" = inline nadpis (v textu), lze změnit na "hang"
 {\sffamily\color{main}}             % styl – sans-serif, modrá
 {}                                 % bez čísla
 {0pt}                              % mezera mezi číslem (není) a textem
@@ -618,5 +618,94 @@
 	\end{figure}
 	
 	U výpisu jednotlivých souborů jsou viditelné počty stažení společně se shortcodem, který lze ve Wordpressu implementovat pomocí stejnomeného stavbebního bloku uživatelského rozhraní.
+	
+		\newpage
+	\subsection{Správa událostí – plugin My Calendar}
+	Plugin \textbf{My Calendar – Accessible Event Manager} umožňuje přidávat a spravovat události, které se poté zobrazují v kalendáři na webu.
+	
+	V levém menu WordPressu klikněte na My Calendar. Zobrazí se přehled kalendáře a seznam již vložených událostí.
+	
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=4cm]{WPcalendarmenu.png}
+		\caption{Kalendář - přístup}
+		\label{fig:role}
+	\end{figure}
+	
+	\subsubsection{Přidání nové události}
+
+	\begin{enumerate}
+		\item Klikněte na \textbf{My Calendar} - \textbf{Přidat událost}.
+		\item Vyplňte potřebné údaje:
+		\begin{itemize}
+			\item \textbf{Název události} – například \uv{Koncert varhanní hudby}.
+			\item \textbf{Popis} – delší text s možností formátování nebo vložení odkazů.
+			\item \textbf{Datum a čas} – nastavte začátek a případně konec akce.
+			\item \textbf{Opakování} – pokud se akce pravidelně opakuje (např. každý měsíc).
+			\item \textbf{Místo konání} – lze vybrat existující nebo přidat nové.
+			\item \textbf{Kategorie} – barvy nebo typy akcí pro odlišení v kalendáři.
+		\end{itemize}
+		\item Klikněte na \textbf{Publikovat}.
+	\end{enumerate}
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=5cm]{WPcalendarEventCreate.png}
+		\caption{Kalendář - přidat událost}
+		\label{fig:role}
+	\end{figure}
+	
+	\subsubsection{Úprava nebo smazání události}
+	
+	V menu My Calendar → Správa událostí najdete seznam všech událostí. U každé události jsou tlačítka Upravit nebo Smazat. Po úpravě klikněte na Aktualizovat událost.
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=15cm]{WPcalendarEventDelete.png}
+		\caption{Kalendář - editace/smazání}
+		\label{fig:role}
+	\end{figure}
+
+	
+	\newpage
+	\subsubsection{Přidání místa konání v My Calendar}
+	
+	
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[width=15cm]{WPcalendarLocationCreate.png}
+		\caption{Kalendář - místo konání}
+		\label{fig:role}
+	\end{figure}
+	
+	
+	Místa konání slouží k uložení adres, kde se události odehrávají. Při opakovaném používání stejného místa není potřeba jej pokaždé vypisovat znovu, stačí vybrat ze seznamu.
+	
+	\begin{enumerate}
+		\item V levém menu WordPressu klikněte na \textbf{My Calendar} -> \textbf{Místa konání}.
+		\item Klikněte na \textbf{Přidat nové místo}.
+		\item Vyplňte:
+		\begin{itemize}
+			\item \textbf{Název místa} – např. \uv{Kostel Nanebevzetí Panny Marie}.
+			\item \textbf{Adresa} – ulice, město, PSČ, případně stát.
+			\item \textbf{GPS souřadnice} – volitelné (umožní přesnější zobrazení na mapě).
+			\item \textbf{Telefon, e-mail, web} – volitelné kontaktní údaje.
+		\end{itemize}
+		\item Klikněte na \textbf{Uložit místo}.
+		\item Při přidávání nové události pak můžete toto místo snadno vybrat ze seznamu.
+	\end{enumerate}
+	
+	\subsubsection{Zobrazení událostí na webu}
+	
+	Všechny publikované události se zobrazují automaticky v kalendáři [\url{https://www.bozsketony.cz/cs/kalendar-akci}], nebo na hlavní stránce [\url{https://www.bozsketony.cz/cs/uvod}], kde je vložen widget kalendáře.
+	
+	\subsubsection{Doporučená praxe}
+	Před vložením nové události si ověřte, zda už není v kalendáři. 
+	
+	Pokud se akce opakuje, nastavte opakování místo ručního zadávání více událostí. Upravte místo konání jen v případě změny, jinak používejte již existující, aby se neukládaly duplicity.
+	
+	Při vytváření akcí si pohlídejte přiřazenou kategorii - \textbf{CZ} a \textbf{DE}. Příslušné kategorie patří do jednotlivých kalendářů dle lokalizace!
+	
 	
 \end{document}

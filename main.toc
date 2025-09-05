@@ -13,11 +13,17 @@
 \contentsline {subsection}{\numberline {3.2}Systémové role}{5}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Aktualizace WordPressu a pluginů}{8}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Aktualizace pluginů}{9}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Zálohování}{9}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Použité pluginy}{11}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Vymazání cache}{12}{subsection.3.7}%
-\contentsline {section}{\numberline {4}Redakční IS}{13}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Autorizace}{14}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Vytvoření příspěvku}{16}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Editace příspěvků a lokalizace}{17}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Soubory}{18}{subsection.4.4}%
+\contentsline {subsection}{\numberline {3.5}Zálohování}{10}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Použité pluginy}{12}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Vymazání cache}{13}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Redakční IS}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Autorizace}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Vytvoření příspěvku}{17}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Editace příspěvků a lokalizace}{18}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Soubory}{19}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Správa událostí – plugin My Calendar}{21}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Přidání nové události}{21}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Úprava nebo smazání události}{22}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}Přidání místa konání v My Calendar}{23}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}Zobrazení událostí na webu}{23}{subsubsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.5}Doporučená praxe}{24}{subsubsection.4.5.5}%
